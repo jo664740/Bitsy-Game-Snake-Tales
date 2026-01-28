@@ -1,0 +1,21 @@
+Game Project: Snake Tales
+Creator: Jordan Rivera
+Version: 1.2
+Date: 1/27/26
+
+
+New features
+Added Rooms
+An extended storyline and ending
+More NPC’s to interact with. ﻿
+﻿
+Fixes
+﻿
+﻿
+Improvements (of existing features)
+
+﻿Dialog has names added to better understand who is talking. ﻿
+Increased interaction with the Snake King to provide more story and dialog
+
+
+Known Bugs
